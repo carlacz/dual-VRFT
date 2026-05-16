@@ -8,8 +8,9 @@ If you are interested in assessing broader movement imagery ability, visit the [
 
 Example **imagery trial**:  
 <img src="files-READMEs/CRFT-MI-stylus-demo.gif" alt="CRFT-MI-demo" width="40%">
+
 Example **execution trial**:  
-![CRFT-ME-demo](files-READMEs/CRFT-ME-stylus-demo.gif)  
+<img src="files-READMEs/CRFT-ME-stylus-demo.gif" alt="CRFT-ME-demo" width="40%">
 _Refresh to replay animation._
 
 ## Repository information
