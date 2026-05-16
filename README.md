@@ -10,11 +10,11 @@ If you are interested in assessing broader movement imagery ability, visit the [
   <tr>
     <td align="center">
       <strong>Example imagery trial:</strong><br>
-      <img src="files-READMEs/CRFT-MI-styl-demo.gif" alt="CRFT-MI-demo" width="400">
+      <img src="files-READMEs/CRFT-MI-styl-demo.gif" alt="CRFT-MI-demo" width="350">
     </td>
     <td align="center">
       <strong>Example execution trial:</strong><br>
-      <img src="files-READMEs/CRFT-ME-styl-demo.gif" alt="CRFT-ME-demo" width="400">
+      <img src="files-READMEs/CRFT-ME-styl-demo.gif" alt="CRFT-ME-demo" width="350">
     </td>
   </tr>
 </table>
