@@ -7,7 +7,7 @@ The **Chronometric Radial Fitts' Task (CRFT)** [Czilczer et al., 2025](https://d
 If you are interested in assessing broader movement imagery ability, visit the [Movement Imagery Ability Platform](https://movementimageryability.github.io) for an overview of open-source behavioural tasks.
 
 Example **imagery trial**:  
-<img src="files-READMEs/CRFT-MI-stylus-demo.gif" alt="CRFT-MI-demo" width="90%">
+<img src="files-READMEs/CRFT-MI-stylus-demo.gif" alt="CRFT-MI-demo" width="40%">
 Example **execution trial**:  
 ![CRFT-ME-demo](files-READMEs/CRFT-ME-stylus-demo.gif)  
 _Refresh to replay animation._
