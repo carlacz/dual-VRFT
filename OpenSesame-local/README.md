@@ -316,8 +316,4 @@ Feel free to contribute!
 ---------------------------------------
 ## REFERENCE
 
-This implementation was developed for the Chronometric Radial Fitts' Task used in the study by Czilczer et al.:
-
-Czilczer, C., Sachse, P., & Dahm, S. F. (2025). *One size Fitts' all? Reconsidering the use of deviations from real-time action imagery in mental chronometry tasks*. PsyArXiv preprint.
-
 Please cite [Czilczer et al. (2026)](https://doi.org/10.31234/osf.io/9xjfb_v1) when using this resource.
