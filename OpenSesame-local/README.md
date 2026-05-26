@@ -65,7 +65,7 @@ To reproduce the task with physically comparable target sizes, use a touchscreen
 
 This experiment uses external `.xlsx` files to manage text and translations. This makes adding new languages relatively easy, but strict formatting rules apply.
 
-**How it works:** Within the experiment, either a default language can be configured (see [changing defaults](#Changing-the-Defaults)), or participants can select their preferred language at the start (see [letting participants select settings](#Letting-Participants-Select-Settings)), otherwise, the default “English” is applied). The experiment uses the corresponding _ISO_code_ (e.g., "EN", "DE") to retrieve the corresponding text from columns in the external `.xlsx` files (e.g., `Instructions.xlsx`, `Block_messages.xlsx`).
+**How it works:** Within the experiment, either a default language can be configured (see [changing defaults](#Changing-the-Defaults)), or participants can select their preferred language at the start, otherwise, the default “English” is applied). The experiment uses the corresponding _ISO_code_ (e.g., "EN", "DE") to retrieve the corresponding text from columns in the external `.xlsx` files (e.g., `Instructions.xlsx`, `Block_messages.xlsx`).
 
 ## **Adding a new language:**
 ### 1. Open the relevant `.xlsx` files
@@ -144,7 +144,7 @@ The decompressed repository includes the following files and subfolders:
 * `Demographics.xlsx`: Questions and translations for the demographics forms.
 * `Messages.xlsx`: Dynamic task instructions, task messages, comprehension-check text, and completion text.
 * Image files stored in the OpenSesame file pool: visual materials for instructions and task-related displays.
-* **Folder** `crft_images`: `.png` files for all visual stimuli.
+* **ZIP-file** `crft_images.zip`: `.png` files for all visual stimuli.
 * **Folder** `data`: Folder designated for storing the `.csv` files (one per participant/run).
 * `data-prep.R`: R script that reads all `subject-*.csv` files automatically, generates `data.rdata`, and stores it in the `data` folder. `data.rdata` contains `data_long` and `data_wide`.
 
