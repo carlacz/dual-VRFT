@@ -54,7 +54,7 @@ For the physical setup used in the **[Czilczer et al. (2025)](https://doi.org/10
 
 | Stimulus property | Approximate physical size on screen |
 | :--- | ---: |
-| Radial amplitude | 12.5 cm |
+| Radial amplitude | ~12.50 cm |
 | Largest target diameter (`ID = 2.03`) | ~6.10 cm |
 | Smallest target diameter (`ID = 6.03`) | ~0.38 cm |
 
