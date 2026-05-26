@@ -2,7 +2,7 @@
 
 Available in **English**, **German**, **Spanish**, **French** (see below for information on implementing the task in other languages).
 
-The **Chronometric Radial Fitts' Task (CRFT)** [Czilczer et al., 2025](https://doi.org/10.31234/osf.io/c2mw6_v2) is a behavioural paradigm designed to assess the ability to manipulate movement imagery, approximated via imagery duration. It specifically measures the extent to which the relationship between movement difficulty and duration (through varying target size according to [Fitts' Law](https://doi.org/10.1037/h0055392)) is preserved in imagery compared to execution. The task was developed to address limitations associated with using the deviation between execution and imagery durations as an indicator of movement imagery ability.
+The **Chronometric Radial Fitts' Task (CRFT; [Czilczer et al., 2025](https://doi.org/10.31234/osf.io/c2mw6_v2))** is a behavioural paradigm designed to assess the ability to manipulate movement imagery, approximated via imagery duration. It specifically measures the extent to which the relationship between movement difficulty and duration (through varying target size according to [Fitts' Law](https://doi.org/10.1037/h0055392)) is preserved in imagery compared to execution. The task was developed to address limitations associated with using the deviation between execution and imagery durations as an indicator of movement imagery ability.
 
 If you are interested in assessing broader movement imagery ability, visit the [Movement Imagery Ability Platform](https://movementimageryability.github.io) for an overview of open-source behavioural tasks.
 
