@@ -309,7 +309,8 @@ The score is calculated only when both slopes can be estimated and the ratio is 
 
 -----
 
-OpenSesame version or backend changes may require adjustments in the experiment file.  
+OpenSesame version updates may require adjustments in the experiment file. 
+As developers, we are not responsible to implementing the task in every use case.  
 Before collecting data, always test the display geometry, stylus responses, timing, localized instructions, and data output.  
 Feel free to contribute!
 
