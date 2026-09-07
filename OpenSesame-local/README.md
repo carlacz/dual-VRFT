@@ -33,7 +33,7 @@ A script for data preparation in [R](https://www.r-project.org/) (developed with
 
 ### Screen setup and physical target size
 
-The CRFT implementation used for the experiment by **[Czilczer et al. (2025)](https://doi.org/10.31234/osf.io/c2mw6_v2)** was administered using:
+The CRFT implementation used for the experiment by **[Czilczer et al., 2026](https://doi.org/10.3758/s13428-026-03124-8)** was administered using:
 
 | Hardware component | Specification |
 | :--- | :--- |
