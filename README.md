@@ -29,6 +29,7 @@ Please consult the accompanying manuscript ([Czilczer et al., 2026](https://doi.
 - [CRFT PsychoPy local](/PsychoPy-local)
 - [CRFT OpenSesame local](/OpenSesame-local)
 
+Note that the PsychoPy and OpenSesame version differ from each other in some details, with the OpenSesame version being more closely related to the original manuscript.
 Subsequent updates to the native software (PsychoPy, OpenSesame) may require adjustments. As developers, we are not responsible for implementing these changes in every use case.
 
 ## Language expansion
