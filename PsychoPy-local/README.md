@@ -247,3 +247,8 @@ Contributions are welcome.
 
 Please cite [Czilczer et al. (2026)](https://doi.org/10.31234/osf.io/9xjfb_v1) when using this resource.
 
+
+## ACKNOWLEDGEMENT
+
+Files included in this PsychoPy repository have been adapted from https://github.com/mmorenoverdu/CRFT.
+
